@@ -1,4 +1,4 @@
-# AI Job Assistant System
+# AI Job Assistant System _A system developed under Soft-Power Studios — focused on structured, AI-assisted workflows for modern professionals._
 
 ## Overview
 This project is a structured AI-assisted job application system designed to support high-quality, intentional job search execution.
