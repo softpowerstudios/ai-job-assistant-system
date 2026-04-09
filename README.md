@@ -55,6 +55,7 @@ Version 1 — Initial architecture and framework
 - YouTube / content documentation under Soft-Power Studios
 
 ---
+---
 
 ## Author
 
