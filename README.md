@@ -57,5 +57,13 @@ Version 1 — Initial architecture and framework
 ---
 
 ## Author
-Soft-Power Studios #ai-job-assistant-system
-AI-assisted job application system and workflow design for structured, high-quality job search execution.
+
+**Soft-Power Studios**
+
+A project focused on building structured, AI-assisted systems that support creative and professional workflows.
+
+---
+
+## Project Scope
+
+AI-assisted job application system designed for structured, high-quality job search execution.
